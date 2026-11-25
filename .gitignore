@@ -1,0 +1,18 @@
+# Backend (Node.js y SQLite)
+backend/node_modules/
+backend/.env
+backend/*.sqlite
+
+# Android Studio / Gradle
+app-android/.gradle/
+app-android/build/
+app-android/app/build/
+app-android/local.properties
+app-android/.idea/
+app-android/*.iml
+*.apk
+*.aab
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

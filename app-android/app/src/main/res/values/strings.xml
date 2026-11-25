@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PerfilApp</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="login_subtitle">Accede a tu perfil de usuario</string>
+    <string name="register_title">Crear cuenta</string>
+    <string name="register_subtitle">Regístrate para acceder a la aplicación</string>
+    <string name="profile_title">Mi Perfil</string>
+    <string name="hint_full_name">Nombre completo</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="btn_no_account">¿No tienes cuenta? Regístrate</string>
+    <string name="btn_has_account">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="btn_take_photo">Tomar fotografía</string>
+    <string name="btn_pick_gallery">Elegir de galería</string>
+    <string name="btn_logout">Cerrar sesión</string>
+    <string name="cd_profile_photo">Fotografía de perfil del usuario</string>
+    <string name="label_member_since">Registrado: %1$s</string>
+    <string name="msg_camera_permission_denied">Se requiere permiso de cámara para tomar una fotografía.</string>
+    <string name="msg_image_process_error">No se pudo procesar la imagen seleccionada.</string>
+    <string name="msg_register_success">Usuario registrado exitosamente. Ahora inicia sesión.</string>
+</resources>
